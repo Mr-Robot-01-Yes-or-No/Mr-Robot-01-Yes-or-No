@@ -34,7 +34,7 @@ To become a Cybersecurity Analyst and build strong practical skills.
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Robot-01-Yes-or-No&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-Robot-01-Yes-or-No&show_icons=true&theme=tokyonight" />
 
 ---
 
