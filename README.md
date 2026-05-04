@@ -27,8 +27,9 @@
 ---
 
 ## 🎯 Goal
-## 📊 GitHub Stats  
-![Ujas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Robot-01-Yes-or-No&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats   
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Robot-01-Yes-or-No&show_icons=true&theme=tokyonight)
 ---
 
 ## 📫 Connect with Me
