@@ -24,12 +24,18 @@
   <img src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
 ---
 
 ## 🎯 Goal
-## 📊 GitHub Stats   
+To become a Cybersecurity Analyst and build strong practical skills.
+
+---
+
+## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Robot-01-Yes-or-No&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 📫 Connect with Me
