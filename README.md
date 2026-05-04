@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ujas 👋  
 
-<!--
-**Mr-Robot-01-Yes-or-No/Mr-Robot-01-Yes-or-No** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Aspiring Cybersecurity Analyst  
 
-Here are some ideas to get you started:
+💻 Diploma Student passionate about Cybersecurity and Ethical Hacking  
+🚀 Currently learning Networking, Linux, and Python  
+🛡️ Interested in Penetration Testing & Security Tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I'm Learning
+- Network Security  
+- Ethical Hacking Basics  
+- Linux Fundamentals  
+- Python for Security  
+
+---
+
+## 🛠️ Skills
+- Cybersecurity Basics  
+- Networking  
+- Linux (Beginner)  
+- Python (Beginner)  
+
+---
+
+## 🎯 Goal
+To become a Cybersecurity Analyst and build strong practical skills  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/ujas-gohil-2329a0382/
