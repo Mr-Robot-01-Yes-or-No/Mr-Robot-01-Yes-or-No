@@ -2,154 +2,201 @@
 
 # 👋 Hi, I'm Ujas Gohil
 
-### 🛡️ Cybersecurity Enthusiast | Python Developer | Future Security Engineer
+### 🛡️ Cybersecurity Student | Python Developer | Security Engineering Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F72D&center=true&vCenter=true&random=false&width=700&lines=Cybersecurity+Learner;Python+Developer;Ethical+Hacking+Enthusiast;Linux+Explorer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F72D&center=true&vCenter=true&random=false&width=700&lines=Cybersecurity+Student;Python+Developer;Network+Security+Learner;Linux+Explorer;Web+Security+Learner;Building+Practical+Security+Tools" />
 
 </div>
 
 ---
 
-# 💻 About Me
+## 💻 About Me
 
-I'm a passionate cybersecurity learner who enjoys building security tools, exploring networking concepts, and improving my Python programming skills.
+I'm **Ujas Gohil**, a Diploma IT student from Ahmedabad, India, focused on building a career in **Cybersecurity and Security Operations**.
 
-I believe the best way to learn cybersecurity is by **building projects**, understanding how systems work, and continuously improving every day.
+I learn by building practical projects and exploring how systems, networks, and applications work. My current focus includes **Python, Linux, networking, web security, security automation, and defensive security concepts**.
 
-Currently focusing on:
+I document my learning through open-source projects on GitHub and continuously work on improving my technical and problem-solving skills.
 
-- 🛡️ Cybersecurity
-- 🐍 Python Development
-- 🌐 Networking
-- 🐧 Linux
-- 🔍 Web Security
-- ⚡ Automation
-- 🚀 Open Source Learning
+### 🎯 Current Focus
+
+* 🛡️ Cybersecurity & Security Operations
+* 🐍 Python for Security Automation
+* 🌐 Network Security
+* 🔍 Web Security & Reconnaissance
+* 🐧 Linux & Command-Line Tools
+* ⚡ Security Automation
+* 🔓 Ethical Hacking Fundamentals
+* 🌱 Open-Source Development
 
 ---
 
-# 🚀 Tech Stack
+## 🧰 Tech Stack
 
 ### Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### Cybersecurity
+### Security & Networking
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-005571?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-### Tools
+### Development Tools
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
-
----
-
-# 📂 Featured Projects
-
-## 🔹 Python Port Scanner
-
-- Multi-port scanning
-- Fast socket programming
-- Clean CLI interface
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
 ---
 
-## 🔹 Password Strength Checker
+## 🚀 Featured Security Projects
 
-- Password analysis
-- Security recommendations
-- Strong password validation
+### 🔹 Advanced Packet Sniffer
 
----
+Real-time network packet analysis tool built with **Python and Scapy**.
 
-## 🔹 Advanced Web Security Scanner
-
-Features:
-
-- IP Lookup
-- DNS Information
-- SSL Inspection
-- Security Headers
-- WHOIS Lookup
-- Server Detection
-- Technology Fingerprinting
-- HTTP Analysis
+* Live packet inspection
+* Protocol analysis
+* Network traffic visibility
+* CLI-based monitoring
 
 ---
 
-## 🔹 More Security Projects Coming Soon...
+### 🔹 Advanced Recon Tool
 
-- Mini IDS
-- Network Scanner
-- Packet Analyzer
-- Vulnerability Scanner
-- Log Analyzer
-- SOC Automation Scripts
+Python-based reconnaissance and technology fingerprinting tool.
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Mr-Robot-01-Yes-or-No&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Robot-01-Yes-or-No&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Robot-01-Yes-or-No&layout=compact&theme=tokyonight&hide_border=true)
+* DNS analysis
+* SSL inspection
+* Security header analysis
+* Technology fingerprinting
+* HTTP analysis
+* Infrastructure reconnaissance
 
 ---
 
-# 🏆 GitHub Trophies
+### 🔹 Advanced Web Security Scanner
 
-![](https://github-profile-trophy.vercel.app/?username=Mr-Robot-01-Yes-or-No&theme=tokyonight&no-frame=true&row=1&column=7)
+Python-based web security assessment tool designed to identify common security issues and configuration weaknesses.
 
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Robot-01-Yes-or-No&theme=tokyo-night)
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Python
-- Linux Administration
-- Networking
-- Ethical Hacking
-- Web Application Security
-- OWASP Top 10
-- SOC Fundamentals
+* Security header analysis
+* Web reconnaissance
+* Basic vulnerability checks
+* Technology detection
+* Human-readable security information
 
 ---
 
-# 🎯 2026 Goals
+### 🔹 Mini IDS
 
-- Build 20+ Cybersecurity Projects
-- Master Python for Security Automation
-- Learn Linux Deeply
-- Contribute to Open Source
-- Become Internship Ready
-- Build an Outstanding GitHub Portfolio
+A lightweight intrusion detection project focused on monitoring network traffic and identifying suspicious patterns.
+
+* Live packet inspection
+* Rule-based detection
+* Suspicious traffic identification
+* Real-time alerting
+
+> 🚧 Currently under active development.
 
 ---
 
-# 📫 Connect With Me
+### 🔹 CyberWatch
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mr-Robot-01-Yes-or-No)
+Real-time TCP connection monitoring and network analysis tool built with Python.
+
+* TCP connection monitoring
+* Socket-based networking
+* Terminal dashboard
+* Network visibility
+
+---
+
+### 🔹 Password Strength Checker
+
+Python-based password security tool that evaluates password strength and provides actionable improvement suggestions.
+
+---
+
+### 🔹 Python Port Scanner
+
+A Python networking tool for scanning ports and identifying available services.
+
+* Socket programming
+* Port scanning
+* Service detection
+* CLI-based workflow
+
+---
+
+## 📊 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=Ujas-Gohil-Cyber-Security\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ujas-Gohil-Cyber-Security\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujas-Gohil-Cyber-Security\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ujas-Gohil-Cyber-Security\&theme=tokyonight\&no-frame=true\&row=1\&column=7)
+
+---
+
+## 📈 Contribution Activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ujas-Gohil-Cyber-Security\&theme=tokyo-night)
+
+---
+
+## 🌱 Currently Learning
+
+* Python for Cybersecurity
+* Linux Administration & Security
+* Computer Networking
+* Web Application Security
+* OWASP Top 10
+* Security Automation
+* SOC Fundamentals
+* Defensive Security
+
+---
+
+## 🎯 2026 Goals
+
+* Build and document practical cybersecurity projects
+* Strengthen Python and Linux skills
+* Develop stronger networking and security fundamentals
+* Learn security monitoring and SOC workflows
+* Contribute to open-source projects
+* Gain real-world cybersecurity experience
+* Become internship-ready
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ujas--Gohil--Cyber--Security-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ujas-Gohil-Cyber-Security)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ujas%20Gohil-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ujasgohil-cybersecurity/)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🔐 Building. Learning. Securing.
 
-*"Hack to Learn, Learn to Secure."*
+*Learning cybersecurity by building practical projects and sharing the journey.*
 
-![](https://komarev.com/ghpvc/?username=Mr-Robot-01-Yes-or-No&label=Profile+Views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=Ujas-Gohil-Cyber-Security\&label=Profile+Views\&color=0e75b6\&style=flat)
 
 </div>
