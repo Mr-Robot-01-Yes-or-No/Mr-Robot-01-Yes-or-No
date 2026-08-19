@@ -78,17 +78,21 @@ I design and build **offensive and defensive security tooling from scratch** —
 
 <br>
 
-## `> analyze --github-stats`
+### `> analyze --github-stats`
 
 <div align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujas-Gohil-Cyber-Security&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ujas-Gohil-Cyber-Security&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&ring_color=00FF9C" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujas-Gohil-Cyber-Security&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" width="41%" />
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujas-Gohil-Cyber-Security&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="65%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujas-Gohil-Cyber-Security&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff" width="90%" />
-
+<div align="center">
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujas-Gohil-Cyber-Security&show_icons=true&theme=tokyonight&hide_border=true" alt="Ujas's GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujas-Gohil-Cyber-Security&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
