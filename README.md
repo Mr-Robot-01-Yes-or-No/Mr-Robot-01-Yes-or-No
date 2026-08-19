@@ -78,24 +78,7 @@ I design and build **offensive and defensive security tooling from scratch** —
 
 <br>
 
-### `> analyze --github-stats`
 
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujas-Gohil-Cyber-Security&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujas-Gohil-Cyber-Security&show_icons=true&theme=tokyonight&hide_border=true" alt="Ujas's GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujas-Gohil-Cyber-Security&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
 
 ## `> connect --secure-channel`
 
